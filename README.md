@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1182-game-play-analysis-iv) |
 | [1317-monthly-transactions-i](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1317-monthly-transactions-i) |
+| [1480-movie-rating](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
