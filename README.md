@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1811-fix-names-in-a-table](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Govind-Shukla-Space/SQL-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
